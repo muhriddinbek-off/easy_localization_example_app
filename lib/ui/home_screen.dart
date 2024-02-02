@@ -33,7 +33,7 @@ class _HomeScreenState extends State<HomeScreen> {
           ListTile(
             title: const Text('hello', style: TextStyle(fontSize: 22)).tr(args: ['Adham']),
           ),
-          const SizedBox(height: 20),
+          const SizedBox(height: 25),
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
